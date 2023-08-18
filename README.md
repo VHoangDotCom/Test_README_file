@@ -1,4 +1,4 @@
-# CRM(Customer relationship management) Management
+# CRM(Customer relationship management) Tool
 
 ## Overview
 Customer relationship management (CRM) is a technology for managing all your company’s relationships and interactions with customers and potential customers. The goal is simple: Improve business relationships. A CRM system helps companies stay connected to customers, streamline processes, and improve profitability.
@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/ncc-erp/ncc-erp-crm
-   
+   ```
 
 4. **Open the backend solution using Visual Studio 2022:**
 
