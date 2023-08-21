@@ -108,7 +108,7 @@ cd C:\Users\ncc-erp-crm\angular
 ```bash
 code .
 ```
-![RunCode](https://github.com/Duc22599/Test-NCC-Nguyen-Anh-Duc/assets/111440755/9922ad13-387a-4df1-aef8-8d124abc6c4a)
+<img src="Images/open_fe.png"/>
 
 **You can also right click inside angular folder then select `Open with Code`**
 
