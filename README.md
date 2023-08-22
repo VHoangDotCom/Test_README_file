@@ -108,7 +108,7 @@ cd C:\Users\ncc-erp-crm\angular
 ```bash
 code .
 ```
-<img src="Images/OpenFE.png"/>
+<img src="./Images/OpenFE.png"/>
 ![Image](./Images/OpenFE.PNG)
 
 
