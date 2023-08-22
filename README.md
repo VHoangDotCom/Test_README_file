@@ -108,8 +108,7 @@ cd C:\Users\ncc-erp-crm\angular
 ```bash
 code .
 ```
-<img src="./Images/OpenFE.png"/>
-![Image](./Images/OpenFE.PNG)
+![ImageOpenFE](./Images/OpenFE.png)
 
 
 **You can also right click inside angular folder then select `Open with Code`**
